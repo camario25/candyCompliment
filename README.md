@@ -7,3 +7,8 @@ Technologies Used: Front-End The Front-End was built using HTML, CSS, JS.
 Back-End The Back-End was built using Ruby on Rails.
 
 Existing Features Perform Get request from FE to BE Users will veiw page background colors changing for every generated compliment
+
+ This project began at a hackathon at General Assembly in San Francisco. 
+
+
+The team: Karthik, Mario, Patrick, Elaine, Lamberto, Charlene, and Erik.
